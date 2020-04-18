@@ -43,3 +43,9 @@
                 an autocomplete configuration object that's going to process the 
                 options inside that configuration object and then render an 
                 autocomplete out onto the screen.
+				
+### Here are Screen Shots of the Movie Fight Application		
+![Image from Gyazo](https://i.gyazo.com/4f43ce393a313677f3bb28e2df111498.png)
+
+![Image from Gyazo](https://i.gyazo.com/18ea7a5d790a5067e3b823f913ab7f7e.png)
+
